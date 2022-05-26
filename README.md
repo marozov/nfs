@@ -1,5 +1,5 @@
 # NFS
-Otus NFS home Work
+NFS home Work
 Создайте каталог например NFS
 Скачате и положите в него файлы: 
 ```
