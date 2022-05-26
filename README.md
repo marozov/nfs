@@ -2,17 +2,17 @@
 
 Все дальнейшие действия были проверены при использовании
 ```
-vagrant -v
+marozov@iMac-marozov ~ % vagrant -v
 Vagrant 2.2.19
 ```
 ```
-vboxmanage --version
-6.1.34r150636
+marozov@iMac-marozov vboxmanage -v
+6.1.32r149290
 ```
-CentOS Linux release 8.5 из Vagrant cloud
+CentOS Linux release 7.8 из Vagrant Cloud
 ```
-cat /etc/redhat-release
-CentOS Linux release 8.5.2111
+[vagrant@nfss ~]$ cat /etc/redhat-release
+CentOS Linux release 7.8.2003 (Core)
 ```
 1. Клонируем репозиторий 
 ```
